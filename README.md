@@ -232,9 +232,9 @@ Rectification된 이미지의 Depth map을 생성해주는 StereoBM과 StereoSGB
 # 4. 기대 효과 및 활용 방안
 ## 4.1 드론
 ![그림 39](image/그림(39).png)    
-[그림 39] Feature Map
-![그림 40](image/그림(40).png)  
-[그림 40] 3D Map
+[그림 39] Feature Map  
+![그림 40](image/그림(40).png)    
+[그림 40] 3D Map  
 
 * 단일 카메라 기반 스테레오 비전 기술을 활용하여, 카메라를 무인비행장치, 또는 드론에 장착하여 지
 형/건물/시설 등을 촬영하여 [그림 39]과 같이 특징점들을 추출 해낼 수 있다.
