@@ -7,8 +7,7 @@ sv3-렉티피케이션
 # SW Tool To Use
 * 개발환경 : 우분투(Ubuntu), Virtual Box
 * 언어 : C / C++
-* 
-
+* 라이브러리 : OpenCV
 
 # 추진배경
 * AR, MR(혼합현실)을 이용한 HoloLens와 같은 장비가 출시되고 있으며, 산업현장에서도 
