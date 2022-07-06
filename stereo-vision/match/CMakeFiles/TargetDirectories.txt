@@ -1,0 +1,3 @@
+/home/ltg/file/match/CMakeFiles/rebuild_cache.dir
+/home/ltg/file/match/CMakeFiles/edit_cache.dir
+/home/ltg/file/match/CMakeFiles/match.dir

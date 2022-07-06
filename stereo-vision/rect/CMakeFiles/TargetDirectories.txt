@@ -1,0 +1,3 @@
+/home/ltg/file/rect/CMakeFiles/rebuild_cache.dir
+/home/ltg/file/rect/CMakeFiles/edit_cache.dir
+/home/ltg/file/rect/CMakeFiles/rect.dir

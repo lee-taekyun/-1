@@ -1,0 +1,35 @@
+원본정보에 대한 파라미터를 구하고, imshow할때는 축소해서 보여줘도 괜찮다.
+벡터를 행렬로 변환:로드리게스 함수
+이미지마다 적합한 매칭 방식이 있음...
+/home/ltg/file/calibration/NAVERCloud/image11.jpg
+/home/ltg/file/calibration/NAVERCloud/image12.jpg
+/home/ltg/file/calibration/NAVERCloud/image13.jpg
+/home/ltg/file/calibration/NAVERCloud/image14.jpg
+/home/ltg/file/calibration/NAVERCloud/image15.jpg
+/home/ltg/file/calibration/NAVERCloud/image16.jpg
+/home/ltg/file/calibration/NAVERCloud/image17.jpg
+/home/ltg/file/calibration/NAVERCloud/image18.jpg
+/home/ltg/file/calibration/NAVERCloud/image19.jpg
+/home/ltg/file/calibration/NAVERCloud/image20.jpg
+/home/ltg/file/calibration/NAVERCloud/image23.jpg
+/home/ltg/file/calibration/NAVERCloud/image24.jpg
+/home/ltg/file/calibration/NAVERCloud/image25.jpg
+/home/ltg/file/calibration/NAVERCloud/image26.jpg
+/home/ltg/file/calibration/NAVERCloud/image27.jpg
+/home/ltg/file/calibration/NAVERCloud/image28.jpg
+/home/ltg/file/calibration/NAVERCloud/image29.jpg
+/home/ltg/file/calibration/NAVERCloud/image30.jpg
+/home/ltg/file/calibration/NAVERCloud/image31.jpg
+/home/ltg/file/calibration/NAVERCloud/image32.jpg
+/home/ltg/file/calibration/NAVERCloud/image33.jpg
+/home/ltg/file/calibration/NAVERCloud/image34.jpg
+/home/ltg/file/calibration/NAVERCloud/image35.jpg
+/home/ltg/file/calibration/NAVERCloud/image36.jpg
+/home/ltg/file/calibration/NAVERCloud/image37.jpg
+/home/ltg/file/calibration/NAVERCloud/image38.jpg
+/home/ltg/file/calibration/NAVERCloud/image39.jpg
+/home/ltg/file/calibration/NAVERCloud/image40.jpg
+/home/ltg/file/calibration/NAVERCloud/image41.jpg
+/home/ltg/file/calibration/NAVERCloud/image42.jpg
+/home/ltg/file/calibration/NAVERCloud/image43.jpg
+/home/ltg/file/calibration/NAVERCloud/image44.jpg
