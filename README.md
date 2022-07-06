@@ -1,9 +1,9 @@
 # stereo-vision
 종합설계 프로젝트1 스테레오 비전
 
-sv1-캘리브레이션   
-sv2-특징점/디스크립터 추출, 매칭   
-sv3-렉티피케이션   
+stereo-vision/calibration-캘리브레이션   
+stereo-vision/match-특징점/디스크립터 추출, 매칭   
+stereo-vision/rect-렉티피케이션   
 # SW Tool To Use
 * 개발환경 : 우분투(Ubuntu), Virtual Box
 * 언어 : C / C++
