@@ -1,5 +1,5 @@
 # stereo-vision
-종합설계 프로젝트1 스테레오 비전
+종합설계 프로젝트 - 스테레오 비전
 
 stereo-vision/calibration-캘리브레이션   
 stereo-vision/match-특징점/디스크립터 추출, 매칭   
